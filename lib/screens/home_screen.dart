@@ -116,7 +116,6 @@ class _MapState extends State<Map> with TickerProviderStateMixin {
                   _controller.complete(controller);
                 },
               )),
-
         ]));
   }
 
