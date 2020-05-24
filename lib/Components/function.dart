@@ -26,4 +26,4 @@ getCameraPosition() async {
         bearing: 192.8334901395799,
         target: LatLng(location.latitude, location.longitude),
         zoom: 19.151926040649414);
-  }
+}
